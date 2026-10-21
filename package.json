@@ -1,0 +1,10 @@
+{
+  "name": "hr-bot",
+  "version": "1.0.0",
+  "description": "HR BOT 🍘 | Messenger command bot | Developer SK HABIBULLA",
+  "private": true,
+  "main": "index.js",
+  "scripts": {"start":"node index.js","test":"node --test"},
+  "engines": {"node": ">=20"},
+  "dependencies": {"sk-habibulla-fca":"^0.2.0","dotenv":"^16.4.5"}
+}

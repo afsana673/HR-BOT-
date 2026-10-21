@@ -1,0 +1,8 @@
+node_modules/
+.env
+.env.*
+!.env.example
+appstate.json
+apostate.json
+/data/
+*.log
